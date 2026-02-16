@@ -17,6 +17,8 @@ An unexpected cost spike was identified and resolved through:
 
 This repository showcases hands-on operational thinking rather than theoretical cloud knowledge.
 
+> **Note:** All resource names, environments, and configurations shown in this repository are illustrative and represent a controlled lab environment. No production identifiers or sensitive information are included.
+
 ---
 
 ## Scenario Overview
