@@ -29,7 +29,7 @@ This strategy was implemented within a simulated Azure subscription to demonstra
 
 ## Budget Control Model
 
-Monthly Budget: CA$20
+Monthly Budget: CA$20 (controlled lab environment)
 
 Alert Thresholds:
 - 50% – Early awareness
