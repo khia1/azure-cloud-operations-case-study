@@ -133,3 +133,17 @@ Budget alerts must be implemented before workload testing.
 Deleting VMs does not always delete attached disks automatically.
 
 Governance must be proactive, not reactive.
+
+
+## Architecture Overview
+
+User / Dev
+↓
+Azure Subscription
+↓
+Resource Group
+↓
+Virtual Machine
+↓
+Cost Monitoring (Azure Cost Management + Alerts)
+
