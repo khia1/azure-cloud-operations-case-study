@@ -23,4 +23,8 @@ This is also where foundational security thinking earns its keep. Defense in dep
 
 For teams evaluating or operating in the cloud, a few questions are worth asking for every service in use:
 
-1. **Where does the provider's responsibility end, and ours begin?** This should be explicit, not assumed — most
+1. **Where does the provider's responsibility end, and ours begin?** This should be explicit, not assumed — most providers publish a shared responsibility breakdown per service.
+2. **Who owns identity and access management?** Across almost every service model, this stays with the customer — and it's one of the most common sources of breaches.
+3. **What's our visibility into the layers we don't control?** Even when a provider manages a layer, understanding what logging and monitoring is available matters for incident response.
+
+The shared responsibility model isn't a compliance checkbox — it's a map. Knowing where you stand on it is the difference between a security program and a false sense of security.
